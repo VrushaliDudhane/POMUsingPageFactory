@@ -1,4 +1,4 @@
-# POMUsingPageFactory
+# POMUsingPageFactory and headless browser
 This project demonstrate the design of Page Object Model with Page Factory Using Selenium and TestNG as Testing Framework 
 
 This repository is based on following scenario
