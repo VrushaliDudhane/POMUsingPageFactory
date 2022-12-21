@@ -1,0 +1,104 @@
+INFO	2022-12-01 18:44:05,664	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-01 18:44:07,238	1574	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-01 18:44:10,989	5325	tests.RegisterPageTest	[TestNG-tests-1]	businessEmail field displayed: 
+INFO	2022-12-01 18:44:18,346	12682	tests.RegisterPageTest	[TestNG-tests-1]	Desired Password field displayed 
+INFO	2022-12-01 18:44:20,532	14868	tests.RegisterPageTest	[TestNG-tests-2]	businessEmail field displayed: 
+INFO	2022-12-01 18:44:23,654	17990	tests.RegisterPageTest	[TestNG-tests-1]	Phone number field displayed 
+INFO	2022-12-01 18:44:28,718	23054	tests.RegisterPageTest	[TestNG-tests-1]	Terms and Privacy Policy field displayed 
+INFO	2022-12-01 18:44:30,814	25150	tests.RegisterPageTest	[TestNG-tests-2]	Desired Password field displayed 
+INFO	2022-12-01 18:44:34,215	28551	tests.RegisterPageTest	[TestNG-tests-1]	Free Signup button displayed 
+INFO	2022-12-01 18:44:40,339	34675	tests.RegisterPageTest	[TestNG-tests-2]	Phone number field displayed 
+INFO	2022-12-01 18:44:47,534	41870	tests.RegisterPageTest	[TestNG-tests-2]	Terms and Privacy Policy field displayed 
+INFO	2022-12-01 18:44:55,039	49375	tests.RegisterPageTest	[TestNG-tests-2]	Free Signup button displayed 
+INFO	2022-12-01 18:57:57,859	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-01 18:58:01,008	3149	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-01 18:58:04,338	6479	tests.RegisterPageTest	[TestNG-tests-1]	businessEmail field displayed: 
+INFO	2022-12-01 18:58:09,671	11812	tests.RegisterPageTest	[TestNG-tests-1]	Desired Password field displayed 
+INFO	2022-12-01 18:58:10,378	12519	tests.RegisterPageTest	[TestNG-tests-2]	businessEmail field displayed: 
+INFO	2022-12-01 18:58:15,213	17354	tests.RegisterPageTest	[TestNG-tests-1]	Phone number field displayed 
+INFO	2022-12-01 18:58:20,343	22484	tests.RegisterPageTest	[TestNG-tests-1]	Terms and Privacy Policy field displayed 
+INFO	2022-12-01 18:58:22,501	24642	tests.RegisterPageTest	[TestNG-tests-2]	Desired Password field displayed 
+INFO	2022-12-01 18:58:25,599	27740	tests.RegisterPageTest	[TestNG-tests-1]	Free Signup button displayed 
+INFO	2022-12-01 18:58:31,420	33561	tests.RegisterPageTest	[TestNG-tests-2]	Phone number field displayed 
+INFO	2022-12-01 18:58:39,087	41228	tests.RegisterPageTest	[TestNG-tests-2]	Terms and Privacy Policy field displayed 
+INFO	2022-12-01 18:58:46,387	48528	tests.RegisterPageTest	[TestNG-tests-2]	Free Signup button displayed 
+INFO	2022-12-02 13:53:49,720	0	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-02 13:54:19,391	29671	tests.RegisterPageTest	[TestNG-tests-2]	businessEmail field displayed: 
+INFO	2022-12-02 13:54:42,345	52625	tests.RegisterPageTest	[TestNG-tests-2]	Desired Password field displayed 
+INFO	2022-12-02 13:55:05,252	75532	tests.RegisterPageTest	[TestNG-tests-2]	Phone number field displayed 
+INFO	2022-12-02 13:55:36,183	106463	tests.RegisterPageTest	[TestNG-tests-2]	Terms and Privacy Policy field displayed 
+INFO	2022-12-02 13:56:03,591	133871	tests.RegisterPageTest	[TestNG-tests-2]	Free Signup button displayed 
+INFO	2022-12-02 14:02:17,510	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-02 14:02:40,073	22563	tests.RegisterPageTest	[TestNG-tests-1]	businessEmail field displayed: 
+INFO	2022-12-02 14:03:02,191	44681	tests.RegisterPageTest	[TestNG-tests-1]	Desired Password field displayed 
+INFO	2022-12-02 14:03:25,867	68357	tests.RegisterPageTest	[TestNG-tests-1]	Phone number field displayed 
+INFO	2022-12-02 14:03:45,799	88289	tests.RegisterPageTest	[TestNG-tests-1]	Terms and Privacy Policy field displayed 
+INFO	2022-12-02 14:04:10,269	112759	tests.RegisterPageTest	[TestNG-tests-1]	Free Signup button displayed 
+INFO	2022-12-02 14:10:47,844	0	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-02 14:11:12,173	24329	tests.RegisterPageTest	[TestNG-tests-2]	businessEmail field displayed: 
+INFO	2022-12-02 14:11:43,434	55590	tests.RegisterPageTest	[TestNG-tests-2]	Desired Password field displayed 
+INFO	2022-12-02 14:12:06,889	79045	tests.RegisterPageTest	[TestNG-tests-2]	Phone number field displayed 
+INFO	2022-12-02 14:12:30,622	102778	tests.RegisterPageTest	[TestNG-tests-2]	Terms and Privacy Policy field displayed 
+INFO	2022-12-02 14:12:54,050	126206	tests.RegisterPageTest	[TestNG-tests-2]	Free Signup button displayed 
+INFO	2022-12-02 14:19:42,636	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-02 14:22:55,647	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-02 14:22:59,488	3841	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-02 14:24:53,502	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-02 14:25:12,393	18891	tests.RegisterPageTest	[TestNG-tests-1]	businessEmail field displayed: 
+INFO	2022-12-02 14:25:33,705	40203	tests.RegisterPageTest	[TestNG-tests-1]	Desired Password field displayed 
+INFO	2022-12-02 14:25:56,802	63300	tests.RegisterPageTest	[TestNG-tests-1]	Phone number field displayed 
+INFO	2022-12-02 14:26:22,548	89046	tests.RegisterPageTest	[TestNG-tests-1]	Terms and Privacy Policy field displayed 
+INFO	2022-12-02 14:49:33,541	0	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-02 14:49:36,348	2807	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-21 12:06:58,012	0	tests.FirstPageTest	[TestNG-tests-1]	SignUp Page Opened
+INFO	2022-12-21 12:07:03,965	5953	tests.FirstPageTest	[TestNG-tests-2]	SignUp Page Opened
+INFO	2022-12-21 12:08:43,885	0	tests.FirstPageTest	[TestNG-tests-1]	SignUp Page Opened
+INFO	2022-12-21 12:08:45,177	1292	tests.FirstPageTest	[TestNG-tests-2]	SignUp Page Opened
+INFO	2022-12-21 12:09:32,216	0	tests.FirstPageTest	[TestNG-tests-1]	SignUp Page Opened
+INFO	2022-12-21 12:09:32,388	172	tests.FirstPageTest	[TestNG-tests-2]	SignUp Page Opened
+INFO	2022-12-21 12:10:23,478	0	tests.FirstPageTest	[TestNG-tests-1]	SignUp Page Opened
+INFO	2022-12-21 12:10:25,510	2032	tests.FirstPageTest	[TestNG-tests-2]	SignUp Page Opened
+INFO	2022-12-21 12:12:14,313	0	tests.FirstPageTest	[TestNG-tests-2]	SignUp Page Opened
+INFO	2022-12-21 12:12:14,856	543	tests.FirstPageTest	[TestNG-tests-1]	SignUp Page Opened
+INFO	2022-12-21 12:47:20,434	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-21 12:47:20,581	147	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+ERROR	2022-12-21 13:19:27,136	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field not displayed 
+ERROR	2022-12-21 13:22:16,294	0	tests.RegisterPageTest	[TestNG-tests-1]	Organization / Company Name field not displayed 
+ERROR	2022-12-21 13:23:07,789	0	tests.RegisterPageTest	[TestNG-tests-1]	Organization / Company Name field not displayed 
+ERROR	2022-12-21 13:25:35,418	0	tests.RegisterPageTest	[TestNG-tests-1]	Organization / Company Name field not displayed 
+ERROR	2022-12-21 13:25:55,138	0	tests.RegisterPageTest	[TestNG-tests-1]	Organization / Company Name field not displayed 
+ERROR	2022-12-21 13:25:56,152	1014	tests.RegisterPageTest	[TestNG-tests-2]	Organization / Company Name field not displayed 
+ERROR	2022-12-21 13:27:02,137	0	tests.RegisterPageTest	[TestNG-tests-1]	Organization / Company Name field not displayed 
+ERROR	2022-12-21 13:27:04,344	2207	tests.RegisterPageTest	[TestNG-tests-2]	Organization / Company Name field not displayed 
+ERROR	2022-12-21 13:27:59,037	0	tests.RegisterPageTest	[TestNG-tests-2]	Organization / Company Name field not displayed 
+ERROR	2022-12-21 13:27:59,126	89	tests.RegisterPageTest	[TestNG-tests-1]	Organization / Company Name field not displayed 
+INFO	2022-12-21 13:29:39,510	0	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-21 13:29:40,135	625	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-21 13:31:59,676	0	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-21 13:31:59,750	74	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-21 13:34:11,054	0	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-21 13:34:12,962	1908	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-21 13:41:13,614	0	tests.RegisterPageTest	[TestNG-tests-1]	businessEmail field displayed: 
+INFO	2022-12-21 13:41:13,792	178	tests.RegisterPageTest	[TestNG-tests-2]	businessEmail field displayed: 
+INFO	2022-12-21 13:43:07,015	2	tests.RegisterPageTest	[TestNG-tests-1]	Desired Password field displayed 
+INFO	2022-12-21 13:43:08,392	1379	tests.RegisterPageTest	[TestNG-tests-2]	Desired Password field displayed 
+INFO	2022-12-21 13:44:34,380	0	tests.RegisterPageTest	[TestNG-tests-1]	Phone number field displayed 
+INFO	2022-12-21 13:44:34,925	545	tests.RegisterPageTest	[TestNG-tests-2]	Phone number field displayed 
+INFO	2022-12-21 13:47:08,043	0	tests.RegisterPageTest	[TestNG-tests-1]	Terms and Privacy Policy field displayed 
+INFO	2022-12-21 13:47:09,932	1889	tests.RegisterPageTest	[TestNG-tests-2]	Terms and Privacy Policy field displayed 
+INFO	2022-12-21 13:49:20,317	0	tests.RegisterPageTest	[TestNG-tests-1]	Free Signup button displayed 
+INFO	2022-12-21 13:49:20,547	230	tests.RegisterPageTest	[TestNG-tests-2]	Free Signup button displayed 
+ERROR	2022-12-21 16:05:31,975	0	tests.RegisterPageTest	[TestNG-tests-1]	Organization / Company Name field not displayed 
+INFO	2022-12-21 16:05:37,624	5649	tests.RegisterPageTest	[TestNG-tests-1]	Desired Password field displayed 
+ERROR	2022-12-21 16:05:41,730	9755	tests.RegisterPageTest	[TestNG-tests-2]	Organization / Company Name field not displayed 
+INFO	2022-12-21 16:05:45,215	13240	tests.RegisterPageTest	[TestNG-tests-1]	businessEmail field displayed: 
+INFO	2022-12-21 16:05:48,538	16563	tests.RegisterPageTest	[TestNG-tests-2]	Desired Password field displayed 
+INFO	2022-12-21 16:05:52,114	20139	tests.RegisterPageTest	[TestNG-tests-1]	Free Signup button displayed 
+INFO	2022-12-21 16:05:57,091	25116	tests.RegisterPageTest	[TestNG-tests-2]	businessEmail field displayed: 
+INFO	2022-12-21 16:05:59,202	27227	tests.RegisterPageTest	[TestNG-tests-1]	Full Name field displayed 
+INFO	2022-12-21 16:06:05,238	33263	tests.RegisterPageTest	[TestNG-tests-2]	Free Signup button displayed 
+INFO	2022-12-21 16:06:05,845	33870	tests.RegisterPageTest	[TestNG-tests-1]	Phone number field displayed 
+INFO	2022-12-21 16:06:14,275	42300	tests.RegisterPageTest	[TestNG-tests-1]	Terms and Privacy Policy field displayed 
+INFO	2022-12-21 16:06:14,958	42983	tests.RegisterPageTest	[TestNG-tests-2]	Full Name field displayed 
+INFO	2022-12-21 16:06:24,597	52622	tests.RegisterPageTest	[TestNG-tests-2]	Phone number field displayed 
+INFO	2022-12-21 16:06:33,058	61083	tests.RegisterPageTest	[TestNG-tests-2]	Terms and Privacy Policy field displayed 
